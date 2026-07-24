@@ -4,7 +4,7 @@ A full-stack MERN application for managing hotel and resort reservations — roo
 
 ## 🔗 Live Links
 
-- **Frontend (Live Site):** https://hotel-booking-engine-lkr1xsfvk-teju4.vercel.app
+- **Frontend (Live Site):**  https://hotel-booking-engine-app.vercel.app
 - **Backend (API):** https://hotel-booking-engine-mj7j.onrender.com
 - **GitHub Repository:** https://github.com/tejasri-rayudu/hotel-booking-engine
 
